@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Font Nunito Sans
+font-family: "Nunito Sans", sans-serif;
+*/
+
+.nav-bg-mio{
+    
+    background-color: gray;
+    font-family: "Nunito Sans", sans-serif;
+    color: black;
+}
+
+
+.nav-jefes{
+    font-weight: bold;
+}
+
+
+.nav-contacto{
+    font-weight: bold;
+}
+
+
+
+.nav-estrategia{
+    font-weight: bold;
+}
+
+
+
+.nav-lore{
+    font-weight: bold;
+}
+
+.p-footer{
+    color: gray;
+    font-weight: lighter;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.div-main-mio{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
